@@ -1,8 +1,18 @@
 > ```
+<div  id="bootcamp"><img  style="display: none;"  src="https://static.bc-edx.com/ai/ail-v-1-0/m1/lms/img/banner.png"  alt="lesson banner"  />
+
 # AI Gen Business Intelligence 
 
 ## Overview and Origin
 
+
+![alt text](https://www.forbes.com/advisor/wp-content/uploads/2023/04/ai_business_survey_-_article_image.jpg)
+
+
+*https://www.forbes.com/advisor/wp-content/uploads/2023/04/ai_business_survey_-_article_image.jpg*
+
+```
+```
 * **SparkCognition**
 
 * SparkCognition was founded in **2013**. Since then, they have been at the forefront of developing AI-driven solutions across various domains.
@@ -72,6 +82,24 @@ In summary, SparkCognition’s journey has been marked by innovation, collaborat
 4.  [**Cylance**: Specializes in developing cybersecurity products and services](https://craft.co/sparkcognition/competitors)[](https://craft.co/sparkcognition/competitors).
 5.  [**Uptake Technologies**: Focuses on industrial analytics SaaS](https://craft.co/sparkcognition/competitors)[](https://craft.co/sparkcognition/competitors).
 
+SparkCognition, a leader in AI-driven solutions, plays a significant role in the **energy sector.** Here’s how they leverage artificial intelligence:
+
+1.  **Visual AI for Near-Miss Reporting**: SparkCognition’s Visual AI Advisor manages  **14,700 cameras**  under contract, transforming near-miss reporting.  [This technology enhances safety and incident prevention](https://www.bing.com/aclick?ld=e8aiHgfl50AvL8sInk12GNQjVUCUwFmZS8VoLlmu-RBSZCOAlHQCRRedCqwpUORISoB77txSrRfBfaGE8wdb74dIOIh_MBjI4s3avcHMzc8KeuLfe4ficzlp7rLv18IqrkFhq3f8WmBjvgQADsZZubqY0sp0RxJ5oDL3S7z-cP3qMJ-34H&u=aHR0cHMlM2ElMmYlMmZ3d3cuaHBlLmNvbSUyZnVzJTJmZW4lMmZzb2x1dGlvbnMlMmZhaS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS5odG1sJTNmanVtcGlkJTNkcHNfdWo2eWFiZmd1X2FpZC01MjEwNzgwNDglMjZlZl9pZCUzZGI2NWJiMmQxYzg4ZTEwNzExYTI1ZDQ0MmM4ZjA0NDExJTNhRyUzYXMlMjZzX2t3Y2lkJTNkQUwhMTM0NzIhMTAhODE1MDE0MTk2MTMxNTYhODE1MDE1ODQ2MDgzNDUlMjZtc2Nsa2lkJTNkYjY1YmIyZDFjODhlMTA3MTFhMjVkNDQyYzhmMDQ0MTE&rlid=b65bb2d1c88e10711a25d442c8f04411)[](https://www.sparkcognition.com/).
+    
+2.  **Renewable Energy Optimization**: Their  **Industrial AI Suite**  enables  **9.6 GW**  of renewable energy capacity.  [By predicting turbine failures with over  **90% accuracy**  up to  **180 days**  in advance, they minimize downtime and save costs](https://www.bing.com/aclick?ld=e8aiHgfl50AvL8sInk12GNQjVUCUwFmZS8VoLlmu-RBSZCOAlHQCRRedCqwpUORISoB77txSrRfBfaGE8wdb74dIOIh_MBjI4s3avcHMzc8KeuLfe4ficzlp7rLv18IqrkFhq3f8WmBjvgQADsZZubqY0sp0RxJ5oDL3S7z-cP3qMJ-34H&u=aHR0cHMlM2ElMmYlMmZ3d3cuaHBlLmNvbSUyZnVzJTJmZW4lMmZzb2x1dGlvbnMlMmZhaS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS5odG1sJTNmanVtcGlkJTNkcHNfdWo2eWFiZmd1X2FpZC01MjEwNzgwNDglMjZlZl9pZCUzZGI2NWJiMmQxYzg4ZTEwNzExYTI1ZDQ0MmM4ZjA0NDExJTNhRyUzYXMlMjZzX2t3Y2lkJTNkQUwhMTM0NzIhMTAhODE1MDE0MTk2MTMxNTYhODE1MDE1ODQ2MDgzNDUlMjZtc2Nsa2lkJTNkYjY1YmIyZDFjODhlMTA3MTFhMjVkNDQyYzhmMDQ0MTE&rlid=b65bb2d1c88e10711a25d442c8f04411)[](https://www.sparkcognition.com/).
+    
+3.  [**Safety in Education**: For K-12 and higher ed, SparkCognition’s AI detects weapons in real-time, alerting law enforcement and first responders when seconds count](https://www.bing.com/aclick?ld=e8aiHgfl50AvL8sInk12GNQjVUCUwFmZS8VoLlmu-RBSZCOAlHQCRRedCqwpUORISoB77txSrRfBfaGE8wdb74dIOIh_MBjI4s3avcHMzc8KeuLfe4ficzlp7rLv18IqrkFhq3f8WmBjvgQADsZZubqY0sp0RxJ5oDL3S7z-cP3qMJ-34H&u=aHR0cHMlM2ElMmYlMmZ3d3cuaHBlLmNvbSUyZnVzJTJmZW4lMmZzb2x1dGlvbnMlMmZhaS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS5odG1sJTNmanVtcGlkJTNkcHNfdWo2eWFiZmd1X2FpZC01MjEwNzgwNDglMjZlZl9pZCUzZGI2NWJiMmQxYzg4ZTEwNzExYTI1ZDQ0MmM4ZjA0NDExJTNhRyUzYXMlMjZzX2t3Y2lkJTNkQUwhMTM0NzIhMTAhODE1MDE0MTk2MTMxNTYhODE1MDE1ODQ2MDgzNDUlMjZtc2Nsa2lkJTNkYjY1YmIyZDFjODhlMTA3MTFhMjVkNDQyYzhmMDQ0MTE&rlid=b65bb2d1c88e10711a25d442c8f04411)[](https://www.sparkcognition.com/).
+    
+4.  [**Gas Stations and C-Stores**: They increase return customers by  **50%**  through AI-driven practices deployed across thousands of stores](https://www.bing.com/aclick?ld=e8aiHgfl50AvL8sInk12GNQjVUCUwFmZS8VoLlmu-RBSZCOAlHQCRRedCqwpUORISoB77txSrRfBfaGE8wdb74dIOIh_MBjI4s3avcHMzc8KeuLfe4ficzlp7rLv18IqrkFhq3f8WmBjvgQADsZZubqY0sp0RxJ5oDL3S7z-cP3qMJ-34H&u=aHR0cHMlM2ElMmYlMmZ3d3cuaHBlLmNvbSUyZnVzJTJmZW4lMmZzb2x1dGlvbnMlMmZhaS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS5odG1sJTNmanVtcGlkJTNkcHNfdWo2eWFiZmd1X2FpZC01MjEwNzgwNDglMjZlZl9pZCUzZGI2NWJiMmQxYzg4ZTEwNzExYTI1ZDQ0MmM4ZjA0NDExJTNhRyUzYXMlMjZzX2t3Y2lkJTNkQUwhMTM0NzIhMTAhODE1MDE0MTk2MTMxNTYhODE1MDE1ODQ2MDgzNDUlMjZtc2Nsa2lkJTNkYjY1YmIyZDFjODhlMTA3MTFhMjVkNDQyYzhmMDQ0MTE&rlid=b65bb2d1c88e10711a25d442c8f04411)[](https://www.sparkcognition.com/).
+    
+5.  [**O&G Exploration**: Proprietary Generative AI improves efficiency, generating reliable subsurface images using far fewer seismic shots (as little as  **1%**)](https://www.bing.com/aclick?ld=e8aiHgfl50AvL8sInk12GNQjVUCUwFmZS8VoLlmu-RBSZCOAlHQCRRedCqwpUORISoB77txSrRfBfaGE8wdb74dIOIh_MBjI4s3avcHMzc8KeuLfe4ficzlp7rLv18IqrkFhq3f8WmBjvgQADsZZubqY0sp0RxJ5oDL3S7z-cP3qMJ-34H&u=aHR0cHMlM2ElMmYlMmZ3d3cuaHBlLmNvbSUyZnVzJTJmZW4lMmZzb2x1dGlvbnMlMmZhaS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS5odG1sJTNmanVtcGlkJTNkcHNfdWo2eWFiZmd1X2FpZC01MjEwNzgwNDglMjZlZl9pZCUzZGI2NWJiMmQxYzg4ZTEwNzExYTI1ZDQ0MmM4ZjA0NDExJTNhRyUzYXMlMjZzX2t3Y2lkJTNkQUwhMTM0NzIhMTAhODE1MDE0MTk2MTMxNTYhODE1MDE1ODQ2MDgzNDUlMjZtc2Nsa2lkJTNkYjY1YmIyZDFjODhlMTA3MTFhMjVkNDQyYzhmMDQ0MTE&rlid=b65bb2d1c88e10711a25d442c8f04411)[](https://www.sparkcognition.com/).
+    
+6.  [**Industrial Workflow Enhancement**: SparkCognition’s Generative AI tools tap into unstructured knowledge sources, providing semantic search, summarization, and citation capabilities](https://www.bing.com/aclick?ld=e8aiHgfl50AvL8sInk12GNQjVUCUwFmZS8VoLlmu-RBSZCOAlHQCRRedCqwpUORISoB77txSrRfBfaGE8wdb74dIOIh_MBjI4s3avcHMzc8KeuLfe4ficzlp7rLv18IqrkFhq3f8WmBjvgQADsZZubqY0sp0RxJ5oDL3S7z-cP3qMJ-34H&u=aHR0cHMlM2ElMmYlMmZ3d3cuaHBlLmNvbSUyZnVzJTJmZW4lMmZzb2x1dGlvbnMlMmZhaS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS5odG1sJTNmanVtcGlkJTNkcHNfdWo2eWFiZmd1X2FpZC01MjEwNzgwNDglMjZlZl9pZCUzZGI2NWJiMmQxYzg4ZTEwNzExYTI1ZDQ0MmM4ZjA0NDExJTNhRyUzYXMlMjZzX2t3Y2lkJTNkQUwhMTM0NzIhMTAhODE1MDE0MTk2MTMxNTYhODE1MDE1ODQ2MDgzNDUlMjZtc2Nsa2lkJTNkYjY1YmIyZDFjODhlMTA3MTFhMjVkNDQyYzhmMDQ0MTE&rlid=b65bb2d1c88e10711a25d442c8f04411)[2](https://www.sparkcognition.com/).
+    
+7.  [**Improved Production for O&G Supermajors**: Up to  **4%**  improvement in production across the fleet, with a total value of  **$800M**  per year](https://www.bing.com/aclick?ld=e8aiHgfl50AvL8sInk12GNQjVUCUwFmZS8VoLlmu-RBSZCOAlHQCRRedCqwpUORISoB77txSrRfBfaGE8wdb74dIOIh_MBjI4s3avcHMzc8KeuLfe4ficzlp7rLv18IqrkFhq3f8WmBjvgQADsZZubqY0sp0RxJ5oDL3S7z-cP3qMJ-34H&u=aHR0cHMlM2ElMmYlMmZ3d3cuaHBlLmNvbSUyZnVzJTJmZW4lMmZzb2x1dGlvbnMlMmZhaS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS5odG1sJTNmanVtcGlkJTNkcHNfdWo2eWFiZmd1X2FpZC01MjEwNzgwNDglMjZlZl9pZCUzZGI2NWJiMmQxYzg4ZTEwNzExYTI1ZDQ0MmM4ZjA0NDExJTNhRyUzYXMlMjZzX2t3Y2lkJTNkQUwhMTM0NzIhMTAhODE1MDE0MTk2MTMxNTYhODE1MDE1ODQ2MDgzNDUlMjZtc2Nsa2lkJTNkYjY1YmIyZDFjODhlMTA3MTFhMjVkNDQyYzhmMDQ0MTE&rlid=b65bb2d1c88e10711a25d442c8f04411)[](https://www.sparkcognition.com/).
+    
+
+[In summary, SparkCognition’s AI solutions optimize predictive maintenance, enhance cybersecurity, and maximize renewable energy efficiency in the global economy’s key sectors](https://www.linqto.com/blog/sparkcognition-overview/)[](https://www.linqto.com/blog/sparkcognition-overview/)
 These companies operate in various domains and contribute to the dynamic AI landscape.
 
 ## Results
@@ -130,3 +158,14 @@ Overall, SparkCognition’s performance aligns with industry-specific success me
     
 
 While specific projects may not be readily available, SparkCognition’s commitment to innovation and real-world impact positions them well in the AI landscape.
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+* Why do you think that offering this product or service would benefit the company?
+
+* What technologies would this additional product or service utilize?
+
+* Why are these technologies appropriate for your solution?
+```
