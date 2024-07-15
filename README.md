@@ -164,11 +164,11 @@ While specific projects may not be readily available, SparkCognition’s commitm
 
  * Drilling services companies such as Halliburton and SLB have been leading AI initiatives that apply to the drilling field because of their expertise in O&G. **SparkCognition** could partner with a drilling service provider to bring the expertise of big data management to the AI generative field, combining drilling and subsurface data. This would ultimately expand their big AI gen business in the O&G industry. 
 
- * SparkCognition, expanding its portfolio into the drilling field, will benefit from leveraging its Machine Learning and Generative AI expertise to provide decision-making solutions to the end users and expand their capabilities.
+ * SparkCognition, expanding its portfolio into the drilling field, will benefit from leveraging its Machine Learning and AI Gen expertise to provide decision-making solutions to the end users and expand their capabilities.
 
  *  The technology of AI Images for pattern recognition, combined with Gen AI data, will increase decision-making by providing drilling data interpretation from the image recognitions of subsurface patterns while merging data from two different sources.
 
- *  *These two technologies are appropriate for this application as they have been proven to bring value independently. The solution could lead to combined algorithms that can help other industries using AI image recognition with Gen AI.
+ *  These two technologies are appropriate for this application as they have been proven to bring value independently. The solution could lead to combined algorithms that can help other industries using AI image recognition with Gen AI.
 		
 ## Appendix A 
 
