@@ -45,7 +45,7 @@
 5.  **Computer Vision**: Computer vision allows AI systems to interpret visual data, such as images or videos. It’s used in applications like image recognition and object tracking.
     
 
-Regarding implementation, SparkCognition follows a business-specific approach.  [They tailor solutions to address the challenges of each industry, leveraging performance data and selecting target processes for maximum effectiveness and profitability](https://www.sparkcognition.com/technology/)[](https://www.sparkcognition.com/technology/).? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Regarding implementation, SparkCognition follows a business-specific approach.  [They tailor solutions to address the challenges of each industry, leveraging performance data and selecting target processes for maximum effectiveness and profitability](https://www.sparkcognition.com/technology/)[](https://www.sparkcognition.com/technology/)
 
 ## Landscape
 
